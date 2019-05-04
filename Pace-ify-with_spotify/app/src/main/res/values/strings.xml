@@ -1,0 +1,10 @@
+<resources>
+    <string name="Start_run">Start Run</string>
+    <string name="app_logo_image">app_logo</string>
+    <string name="app_name">Pace-ify</string>
+    <string name="start_targetDistance"></string>
+    <string name="start_targetPace"></string>
+    <string name="start_haptic">Haptic</string>
+    <string name="start_aural">Aural</string>
+    <string name="Stop_run">Stop Run</string>
+</resources>
